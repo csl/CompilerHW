@@ -1,0 +1,3 @@
+Cdeg=30;
+Fdeg=Cdeg*9/5+32;
+print Fdeg;

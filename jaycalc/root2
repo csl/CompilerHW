@@ -1,0 +1,7 @@
+a=1;
+b=-7;
+c=10;
+d=b*b-4*a*c;
+print d;
+x=(-b-3)/2;
+print x;
